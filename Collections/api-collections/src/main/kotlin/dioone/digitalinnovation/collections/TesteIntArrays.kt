@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections
+package dioone.digitalinnovation.collections
 
 
 fun main() {
